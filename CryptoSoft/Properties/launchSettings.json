@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CryptoSoft": {
+      "commandName": "Project",
+      "commandLineArgs": "-s C:\\Users\\Gabriel\\Documents\\Encrypt\\test.png.encrypted -d C:\\Users\\Gabriel\\Documents\\Decrypt"
+    }
+  }
+}
